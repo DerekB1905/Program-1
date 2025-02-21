@@ -4,7 +4,7 @@ Name: Derek Burt
 
 COSC 2030
 
-Competing: YES or NO
+Competing: NO
 
 Best run time:
 
